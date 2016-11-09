@@ -4,7 +4,7 @@ add_executable(21-container-wrapper
 
 add_custom_target(run-21-container-wrapper
     DEPENDS 21-container-wrapper
-    COMMAND ./21-container-wrapper
+    ./21-container-wrapper
 )
 
 add_executable(22-invalid
