@@ -46,3 +46,8 @@ public:
 private:
   boost::optional<T> _value;
 };
+
+
+
+
+
